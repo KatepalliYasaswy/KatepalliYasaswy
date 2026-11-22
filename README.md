@@ -21,7 +21,7 @@ Turning data into insights and ideas into practical solutions.
 - 📊 Interested in **Data Analytics, Machine Learning, Artificial Intelligence and Data Visualization**.
 - 🔍 I enjoy discovering patterns in data and converting them into meaningful insights.
 - 🌱 Currently strengthening my skills in **Python, SQL, Java, Machine Learning and Power BI**.
-- 🎯 My goals are to pursue **M.Tech through GATE** or build a career in a reputed technology organization.
+- 🎯 My goal is to secure a position in a reputed MNC or government institution.
 - 🤝 Open to collaborating on data science, analytics and beginner-friendly open-source projects.
 
 ## 💼 Experience
