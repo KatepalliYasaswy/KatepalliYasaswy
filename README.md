@@ -85,7 +85,7 @@ Developed an intelligent alarm application that uses image verification to dismi
 
 <b>Tech:</b> Python · OpenCV · Computer Vision · Image Processing · SSIM · ORB · Tkinter · SQLite
 
-<a href="YOUR-SMARTVISION-REPOSITORY-LINK">↗ View Repository</a>
+<a href="https://github.com/KatepalliYasaswy/SmartVision-Alarm.git">↗ View Repository</a>
 
 </td>
 
