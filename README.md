@@ -126,33 +126,7 @@ A hybrid recommendation engine combining collaborative and content-based filteri
 - 🚀 **Smart India Hackathon** — Internal Round
 - 🎓 **Reliance Scholar** — Reliance Foundation Scholarship
 
-## 📊 GitHub at a Glance
 
-<details>
-<summary><b>📈 View GitHub Statistics</b></summary>
-<br/>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-
-<img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub streak" />
-
-</div>
-</details>
-
-<details>
-<summary><b>🗓️ View Contribution Activity</b></summary>
-<br/>
-
-<div align="center">
-
-[![Yasaswy's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-</div>
-</details>
 
 ## 🌐 Languages
 
