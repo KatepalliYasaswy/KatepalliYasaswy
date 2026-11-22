@@ -64,18 +64,14 @@ Uses UPI transaction analytics and machine learning to understand spending patte
 <td width="50%" valign="top">
 
 ### 📈 Sales Forecasting Intelligence Platform
+
 **AI-Powered Forecasting**
 
 Explores historical sales data and forecasts future trends using statistical and deep-learning approaches.
 
 **Tech:** Python · ARIMA · Prophet · LSTM · Streamlit
 
-<a href="https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform.git>↗ View repository</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[🔗 View Repository](https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform)
 
 ### 🛍️ E-Commerce Recommendation System
 **Hybrid Product Recommendation Engine**
