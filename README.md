@@ -64,16 +64,48 @@ Uses UPI transaction analytics and machine learning to understand spending patte
 <td width="50%" valign="top">
 
 ### 📈 Sales Forecasting Intelligence Platform
-
 **AI-Powered Forecasting**
 
 Explores historical sales data and forecasts future trends using statistical and deep-learning approaches.
 
 **Tech:** Python · ARIMA · Prophet · LSTM · Streamlit
 
-[🔗 View Repository](https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform)
+<a href="YOUR_SALES_FORECASTING_REPO">↗ View repository</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🚨 SmartVision Alarm</h3>
+
+<b>Computer Vision-Based Intelligent Alarm System</b>
+
+Developed an intelligent alarm application that uses image verification to dismiss alarms, combining computer vision techniques to compare captured images with reference images.
+
+<b>Tech:</b> Python · OpenCV · Computer Vision · Image Processing · SSIM · ORB · Tkinter · SQLite
+
+<a href="YOUR-SMARTVISION-REPOSITORY-LINK">↗ View Repository</a>
+
+</td>
 
 
+<td width="50%" valign="top">
+
+### 🔎 What I'm Exploring
+- Data analytics and storytelling
+- Predictive modelling
+- Explainable Artificial Intelligence
+- Machine learning workflows
+- Java and problem-solving
+
+I enjoy learning by building and improving practical projects.
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 🧰 Technical Skills
 
@@ -166,26 +198,7 @@ Explores historical sales data and forecasts future trends using statistical and
 
 ---
 
-## 📊 GitHub at a Glance
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kATEPALLIYASASWY&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0E7490&icon_color=0E7490&text_color=64748B" height="165" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kATEPALLIYASASWY&layout=compact&hide_border=true&bg_color=00000000&title_color=0E7490&text_color=64748B" height="165" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=kATEPALLIYASASWY&hide_border=true&background=00000000&ring=0E7490&fire=0E7490&currStreakLabel=0E7490" width="72%" alt="GitHub contribution streak"/>
-
-</div>
-
-<details>
-<summary><strong>View contribution activity graph</strong></summary>
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kATEPALLIYASASWY&bg_color=ffffff&color=334155&line=0E7490&point=06B6D4&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-</details>
-
----
 
 ## 🌐 Languages
 
