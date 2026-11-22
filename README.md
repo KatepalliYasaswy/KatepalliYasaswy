@@ -70,7 +70,7 @@ Explores historical sales data and forecasts future trends using statistical and
 
 **Tech:** Python · ARIMA · Prophet · LSTM · Streamlit
 
-<a href="YOUR_SALES_FORECASTING_REPO">↗ View repository</a>
+<a href="https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform.git>↗ View repository</a>
 
 </td>
 </tr>
