@@ -58,7 +58,7 @@ Uses UPI transaction analytics and machine learning to understand spending patte
 
 **Tech:** Python · SQL · Pandas · NumPy · Scikit-learn · Streamlit · Power BI
 
-<a href="YOUR_INVESTGENIE_REPO">↗ View repository</a>
+<a href="https://github.com/KatepalliYasaswy/InvestGenie-AI-Powered-Personal-Finance-Intelligence.git">↗ View repository</a>
 
 </td>
 <td width="50%" valign="top">
@@ -70,7 +70,8 @@ Explores historical sales data and forecasts future trends using statistical and
 
 **Tech:** Python · ARIMA · Prophet · LSTM · Streamlit
 
-<a href="YOUR_SALES_FORECASTING_REPO">↗ View repository</a>
+<a href="https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform.git">↗ View repository</a>
+
 
 </td>
 </tr>
