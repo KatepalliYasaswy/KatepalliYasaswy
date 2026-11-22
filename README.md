@@ -73,32 +73,7 @@ Explores historical sales data and forecasts future trends using statistical and
 
 [🔗 View Repository](https://github.com/KatepalliYasaswy/Sales-Forecasting-Intelligence-Platform)
 
-### 🛍️ E-Commerce Recommendation System
-**Hybrid Product Recommendation Engine**
 
-Combines collaborative filtering and content-based filtering to generate personalized product recommendations.
-
-**Tech:** Python · Pandas · NumPy · Scikit-learn · SQL
-
-<a href="YOUR_RECOMMENDER_REPO">↗ View repository</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔎 What I'm Exploring
-- Data analytics and storytelling
-- Predictive modelling
-- Explainable Artificial Intelligence
-- Machine learning workflows
-- Java and problem-solving
-
-I enjoy learning by building and improving practical projects.
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🧰 Technical Skills
 
