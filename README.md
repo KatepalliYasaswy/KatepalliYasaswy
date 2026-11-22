@@ -124,7 +124,7 @@ A hybrid recommendation engine combining collaborative and content-based filteri
 - 🥇 **1st Prize** — College Cricket
 - 🏅 **Engineers Award** — September 2026
 - 🚀 **Smart India Hackathon** — Internal Round
-- 🎓 **Reliance Scholar** — Coursera learning program
+- 🎓 **Reliance Scholar** — Reliance Foundation Scholarship
 
 ## 📊 GitHub at a Glance
 
