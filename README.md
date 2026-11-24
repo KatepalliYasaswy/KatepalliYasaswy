@@ -33,12 +33,7 @@ I'm **Yasaswy Katepalli**, a Computer Science undergraduate specializing in **Da
 - 🌱 **Currently strengthening:** Python, SQL, Java, Machine Learning and Power BI
 
 </td>
-<td width="36%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kATEPALLIYASASWY&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=0E7490&icon_color=0E7490&text_color=64748B&hide_title=false" width="100%" alt="GitHub overview"/>
-
-</td>
-</tr>
 </table>
 
 ---
